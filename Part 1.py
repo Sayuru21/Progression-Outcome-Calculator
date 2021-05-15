@@ -89,8 +89,10 @@ def getProgressionOutcome():
         print("Exclude")
     else:
         print("Do not progress – module retriever")
+        
 
-
+print("                                 *** Progression Outcome Calculator ***")        
+print()
 checkTotal()
 print()
 print("Progression Outcome: ", end="")
